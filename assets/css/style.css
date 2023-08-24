@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Head block */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,6 +48,7 @@ p {
     font-size: 16px;
 }
 
+/* Main image */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,6 +58,7 @@ p {
     background-position: center;
 }
 
+/* Content description */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -90,6 +93,7 @@ p {
     font-size: 36px;
 }
 
+/* benefits description */
 .benefits {
     margin-right: 20px;
     padding: 20px;
