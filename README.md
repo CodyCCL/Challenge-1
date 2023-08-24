@@ -24,3 +24,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+![01-html-css-git-homework-demo](https://github.com/CodyCCL/Challenge-1/assets/142187489/2065b83b-93ab-40f5-aaed-97eba5949a15)
