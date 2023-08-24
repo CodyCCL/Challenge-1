@@ -1,6 +1,7 @@
 # Challenge-1
 First assignment
 
+Description:
 ## User Story
 
 ```
@@ -25,4 +26,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+The following image shows the web application's appearance and functionality:
 ![01-html-css-git-homework-demo](https://github.com/CodyCCL/Challenge-1/assets/142187489/2065b83b-93ab-40f5-aaed-97eba5949a15)
+
+Link to deployed application:
+
