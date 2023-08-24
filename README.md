@@ -37,4 +37,4 @@ THEN I find a concise, descriptive title
 ## Link to deployed application:
 https://codyccl.github.io/Challenge-1/
 
-Code source: **On-the-job ticket** or **feature request Challenges** give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. 
+Code source: index.html
